@@ -1,0 +1,2 @@
+<option value="not">No</option>
+<option value="yes" <?php echo e($val == 'yes' ? 'selected="selected"': ''); ?>>Si</option><?php /**PATH D:\laragon\www\larablog\resources\views/dashboard/partials/option-yes-not.blade.php ENDPATH**/ ?>
